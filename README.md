@@ -1,2 +1,2 @@
 # asteroid-classification
-Analysis of NASA Asteroid Data using Python, comparing logistic regression and neural networks to classify potentially hazardous asteroids. Includes code, report, and slides
+Analysis of NASA Asteroid Data using Python, comparing logistic regression and neural networks to classify potentially hazardous asteroids. This repository contains the NASA dataset used for the project, a preliminary presentation outlining the initial goals and intended outcomes, a presentation of the completed project, the code, and a final report detailing the methodology, results, and conclusions.
